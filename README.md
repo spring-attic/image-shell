@@ -9,6 +9,7 @@ There currently isn't any way to specify the Admin URL when launching a shell
 to connect to the running admin server.
 
 As an example, if using the springxd/admin image:
+
 	docker run --name admin \
 	    --link zookeeper:zookeeper \
 	    --link hsqldb:hsqldb \
