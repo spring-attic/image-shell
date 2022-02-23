@@ -1,3 +1,5 @@
+# image-shell is no longer actively maintained by VMware, Inc.
+
 # Spring XD Shell
 A Docker image that runs a Spring XD Shell.
 
